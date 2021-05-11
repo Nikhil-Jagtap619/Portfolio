@@ -624,6 +624,7 @@ button:hover{
         position: absolute;
         z-index: 2;
         bottom: 0%;
+        visibility: hidden;
     }
     .content-left .content-inner, .content-right .content-inner{
         font-size: 1.3em;
