@@ -621,9 +621,7 @@ button:hover{
         font-size: 3em;
     }
     .footerlast{
-        position: absolute;
-        z-index: 2;
-        bottom: 0%;
+        position: fixed;
         visibility: hidden;
     }
     .content-left .content-inner, .content-right .content-inner{
