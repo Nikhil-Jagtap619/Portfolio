@@ -623,7 +623,7 @@ button:hover{
     .footerlast{
         position: absolute;
         z-index: 2;
-        top: 357%;
+        top: 350%;
     }
     .content-left .content-inner, .content-right .content-inner{
         font-size: 1.3em;
